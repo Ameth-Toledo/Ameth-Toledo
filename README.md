@@ -1,5 +1,4 @@
-<h2 align="left">My name is Ameth and I'm a Software Engineer, from Tuxtla Gutiérrez, Chiapas.</h2>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=false&vCenter=true&multiline=true&width=700&lines=Hi!+I'm+Ameth+👋;Front-End+Dev+%7C+Fullstack+Jr+🧑‍💻;Lover+of+Modern+Web+Tech+⚡;Let's+build+something+awesome+together!+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=false&vCenter=true&multiline=true&width=700&lines=Hi!+I'm+Ameth+👋;Front-End+Dev+%7C+Fullstack+Jr;Lover+of+Modern+Web+Tech+⚡;Let's+build+something+awesome+together!+🚀" alt="Typing SVG" />
 
 <p align="left">
   I'm passionate about building cool and scalable web applications.<br />
