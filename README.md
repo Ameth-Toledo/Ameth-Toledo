@@ -90,27 +90,6 @@
 </div>
 
 ###
-
-<h3 align="left">Proyectos Destacados</h3>
-
-<div align="center">
-  <a href="https://github.com/FabricioPRZ/UNIMED-SUCHIAPA" target="_blank">
-    <img src="https://unimed-build.vercel.app/assets/home.png" alt="UNIMED" width="300" style="border-radius: 10px; margin: 10px;" />
-  </a>
-  
-  <a href="https://github.com/Ameth-Toledo/fullstack-store" target="_blank">
-    <img src="https://raw.githubusercontent.com/Ameth-Toledo/fullstack-store/main/preview.png" alt="Fullstack Store" width="300" style="border-radius: 10px; margin: 10px;" />
-  </a>
-
-  <a href="https://github.com/Ameth-Toledo/astro-landing" target="_blank">
-    <img src="https://raw.githubusercontent.com/Ameth-Toledo/astro-landing/main/preview.png" alt="Astro Landing" width="300" style="border-radius: 10px; margin: 10px;" />
-  </a>
-
-  <a href="https://github.com/Ameth-Toledo/app-vue-notes" target="_blank">
-    <img src="https://raw.githubusercontent.com/Ameth-Toledo/app-vue-notes/main/preview.png" alt="Vue Notes App" width="300" style="border-radius: 10px; margin: 10px;" />
-  </a>
-</div>
-
 <br clear="both">
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
