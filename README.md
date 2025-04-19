@@ -1,7 +1,7 @@
 <img 
   src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=false&vCenter=true&multiline=true&width=700&lines=¡Hola!+Soy+Ameth+👋;Desarrollador+Front-End+%7C+Fullstack+Jr;Apasionado+por+la+tecnología+web+moderna+⚡;¡Construyamos+algo+increíble+juntos!+🚀" 
   alt="Typing SVG"
-  style="height: 250px; margin-top: -10px;" 
+  style="height: 250px; margin-top: -30px;" 
 />
 
 ###
