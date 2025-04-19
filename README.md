@@ -1,5 +1,14 @@
 <h2 align="left">My name is Ameth and I'm a Software Engineer, from Tuxtla Gutiérrez, Chiapas.</h2>
 
+<p align="left">
+  I'm passionate about building cool and scalable web applications.<br />
+  I specialize in front-end development using modern frameworks like <strong>React</strong>, <strong>Angular</strong>, <strong>Vue</strong>, and <strong>Astro</strong>, but I also enjoy and understand the back-end world.<br />
+  I consider myself a <strong>Full Stack Junior Developer</strong> who loves learning and exploring new technologies.<br /><br />
+  I'm currently studying <strong>Software Engineering</strong> at the <strong>Universidad Politécnica de Chiapas</strong> and always looking for opportunities to grow professionally and collaborate on exciting projects.<br />
+  I enjoy turning ideas into real digital experiences and always aim to write clean, efficient, and maintainable code. ✨<br /><br />
+  Whether it's front-end UI magic or back-end logic, I’m all in — and always coding with 💙 from Chiapas 🇲🇽.
+</p>
+
 ###
 
 <br clear="both">
