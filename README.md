@@ -1,4 +1,5 @@
 <h2 align="left">My name is Ameth and I'm a Software Engineer, from Tuxtla Gutiérrez, Chiapas.</h2>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=false&vCenter=true&multiline=true&width=700&lines=Hi!+I'm+Ameth+👋;Front-End+Dev+%7C+Fullstack+Jr+🧑‍💻;Lover+of+Modern+Web+Tech+⚡;Let's+build+something+awesome+together!+🚀" alt="Typing SVG" />
 
 <p align="left">
   I'm passionate about building cool and scalable web applications.<br />
@@ -89,6 +90,36 @@
 </div>
 
 ###
+
+<h3 align="left">🚀 Proyectos Destacados</h3>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Ameth-Toledo/mi-sitio-angular" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ameth-Toledo&repo=mi-sitio-angular&theme=dracula" alt="Repo Angular" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Ameth-Toledo/fullstack-store" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ameth-Toledo&repo=fullstack-store&theme=dracula" alt="Repo Fullstack Store" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Ameth-Toledo/astro-landing" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ameth-Toledo&repo=astro-landing&theme=dracula" alt="Repo Astro" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Ameth-Toledo/app-vue-notes" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ameth-Toledo&repo=app-vue-notes&theme=dracula" alt="Repo Vue Notes" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <br clear="both">
 
