@@ -1,17 +1,17 @@
 <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=false&vCenter=true&multiline=true&width=700&lines=Hi!+I'm+Ameth+👋;Front-End+Dev+%7C+Fullstack+Jr;Lover+of+Modern+Web+Tech+⚡;Let's+build+something+awesome+together!+🚀" 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=false&vCenter=true&multiline=true&width=700&lines=¡Hola!+Soy+Ameth+👋;Desarrollador+Front-End+%7C+Fullstack+Jr;Apasionado+por+la+tecnología+web+moderna+⚡;¡Construyamos+algo+increíble+juntos!+🚀" 
   alt="Typing SVG"
-  style="height: 250px;" 
+  style="height: 250px; margin-top: 0;" 
 />
 
 ###
 <p align="left">
-  I'm passionate about building cool and scalable web applications.<br />
-  I specialize in front-end development using modern frameworks like <strong>React</strong>, <strong>Angular</strong>, <strong>Vue</strong>, and <strong>Astro</strong>, but I also enjoy and understand the back-end world.<br />
-  I consider myself a <strong>Full Stack Junior Developer</strong> who loves learning and exploring new technologies.<br /><br />
-  I'm currently studying <strong>Software Engineering</strong> at the <strong>Universidad Politécnica de Chiapas</strong> and always looking for opportunities to grow professionally and collaborate on exciting projects.<br />
-  I enjoy turning ideas into real digital experiences and always aim to write clean, efficient, and maintainable code. ✨<br /><br />
-  Whether it's front-end UI magic or back-end logic, I’m all in — and always coding with 💙 from Chiapas 🇲🇽.
+  Me apasiona construir aplicaciones web atractivas y escalables.<br />
+  Me especializo en desarrollo Front-End utilizando frameworks modernos como <strong>React</strong>, <strong>Angular</strong>, <strong>Vue</strong> y <strong>Astro</strong>, aunque también disfruto y comprendo el mundo del Back-End.<br />
+  Me considero un <strong>Desarrollador Full Stack Junior</strong> que ama aprender y explorar nuevas tecnologías.<br /><br />
+  Actualmente estudio <strong>Ingeniería en Software</strong> en la <strong>Universidad Politécnica de Chiapas</strong> y siempre estoy en busca de oportunidades para crecer profesionalmente y colaborar en proyectos emocionantes.<br />
+  Disfruto convertir ideas en experiencias digitales reales y siempre busco escribir código limpio, eficiente y mantenible. ✨<br /><br />
+  Ya sea magia en el Front-End o lógica en el Back-End, ¡me entrego al 100%! — y siempre programando con 💙 desde Chiapas 🇲🇽.
 </p>
 
 ###
